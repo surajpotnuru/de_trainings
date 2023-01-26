@@ -12,9 +12,10 @@
 - DRY (Function, Packages)
 - Exception Handling (How code will behave when error occurs)
 - File Operations
-- Decorators / Generators
-- Collections in Python
-- Object oriented Programming in Python
+- Pandas Hands on
+- Decorators / Generators (Later)
+- Collections in Python (Later)
+- Object oriented Programming in Python (Later)
 - Hands on / Questions
 
 ## AWS Cloud
